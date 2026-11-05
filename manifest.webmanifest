@@ -1,0 +1,11 @@
+{
+  "name": "Ameer Finance 2026",
+  "short_name": "Ameer Finance",
+  "description": "Private personal finance planner for 2026",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#101a2c",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
